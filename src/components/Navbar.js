@@ -7,17 +7,17 @@ export default function Navbar() {
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl">
-            Reed Barger
+            Minh Vu Nguyen (Brian)
           </a>
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
-          <a href="#projects" className="mr-5 hover:text-white">
+            <a href="#projects" className="py-4 px-5 mr-3 hover:text-white hover:-translate-y-1 hover:bg-indigo-500 hover:scale-110 duration-300 rounded">
             Past Work
           </a>
-          <a href="#skills" className="mr-5 hover:text-white">
+            <a href="#skills" className="py-4 px-5 mr-3 hover:text-white hover:-translate-y-1 hover:bg-indigo-500 hover:scale-110 duration-300 rounded">
             Skills
           </a>
-          <a href="#testimonials" className="mr-5 hover:text-white">
+            <a href="#testimonials" className="py-4 px-5 mr-3 hover:text-white hover:-translate-y-1 hover:bg-indigo-500  hover:scale-110 duration-300 rounded">
             Testimonials
           </a>
         </nav>
