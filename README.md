@@ -1,3 +1,7 @@
+# Portfolio Website Project - Brian Nguyen
+
+This project is created using React and Tailwind to create a functional portfolio.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
