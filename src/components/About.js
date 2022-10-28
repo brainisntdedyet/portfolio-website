@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I am a software developer
           </h1>
           <p className="mb-8 leading-relaxed">
-              My experience spans web development technologies such as React, Tailwind CSS, HTML5, CSS, JavaScript. I am experienced in scripting languages such as C#, C++, and Python.
+              <b>He/Him</b>. Vietnamese. Based in Melbourne, Victoria.
           </p>
           <div className="flex justify-center">
             <a
