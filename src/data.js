@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Ei2Pi",
+    subtitle: "React, MongoDB, Node",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "As the final project for my university course, me and a group of students were tasked to create an educational platform for a client, using Agile project management to create a functional educational platform.",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
   },
@@ -51,7 +51,7 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "HTML5\,  CSS\, JavaScript",
+  "HTML5,  CSS, JavaScript",
   "Tailwind CSS",
   "React",
   "C++",
